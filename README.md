@@ -1,2 +1,2 @@
-# react-fit-ui
-Beautiful React components
+# React FitUI
+Beautiful and Modern React components
